@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🚀 AI Growth Ads  
+Une plateforme IA innovante qui optimise les campagnes marketing en temps réel grâce à l’analyse comportementale.
 
-<!--
-**IA-Growth-Ads/IA-Growth-Ads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 Description  
+AI Growth Ads permet aux entreprises de maximiser leurs conversions publicitaires en ajustant automatiquement leurs annonces selon les réactions des consommateurs.  
+Grâce à l’intelligence artificielle, les publicités deviennent plus **précises, efficaces et adaptées à chaque utilisateur**.
 
-Here are some ideas to get you started:
+## 🔹 Technologies utilisées  
+- ⚙️ **Front-end** : React.js + Tailwind CSS  
+- 🖥 **Back-end** : FastAPI (Python) + PostgreSQL  
+- 🤖 **IA** : TensorFlow / PyTorch pour l’analyse comportementale  
+- ☁️ **Hébergement** : AWS / Google Cloud  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Installation  
+Clone le projet et installe les dépendances :  
+```bash
+git clone https://github.com/TON-UTILISATEUR/AI-Growth-Ads.git
+cd AI-Growth-Ads
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+cd frontend
+npm install
+npm start
+---
